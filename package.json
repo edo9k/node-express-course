@@ -4,7 +4,7 @@
   "description": "just another test project thingie to learn node express and other js technologies from this udemy course im doing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "",
